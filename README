@@ -1,0 +1,4 @@
+WC3 Mousecapture
+
+Usage:
+Start the program and make Warcraft 3 window active. Mouse should be now captured inside WC3 window. If you want to disable mouse capture, push F6.
