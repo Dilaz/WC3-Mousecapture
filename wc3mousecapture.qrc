@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/WC3MouseCapture">
+        <file>Resources/mouse.png</file>
+    </qresource>
+</RCC>
